@@ -36,4 +36,6 @@ dependencies:
     - python --version
     - which pip;
 
-
+test:
+  override:
+    - python test_mne-version.py

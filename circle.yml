@@ -33,6 +33,7 @@ dependencies:
     - ls -al /home/ubuntu/miniconda/bin;
     - echo $PATH;
     - which python;
+    - python --version
     - which pip;
 
 

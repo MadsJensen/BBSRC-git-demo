@@ -35,6 +35,7 @@ dependencies:
     - which python;
     - python --version
     - which pip;
+    - pip install mne
 
 test:
   override:
